@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><h3>Oscar Octavio Torres lozano</h3></title>
+    <link rel="stylesheet" href="style.css">
+    <div>
+    <h1>Oscar Octavio Torres Lozano</h1>        
+    <img src="https://lh3.googleusercontent.com/pw/AJFCJaWtKpG0VGICb7o3B_7O5YTH-Hjx3X4wxIJa3wcrROv2IKrM8IfJSDxO2q1EspMC0Y_urjS9N1snDHBrrhJch6p3lRV96LcZqwOUEKgdAjPjR6cBtNRQ3zqdsQGSD1UoBPogSCC7h-nExqE85cZH9jC0ldM6BetD7QlkehTB5ZntSTOsbRIwPG4bsWpaNZZKGzJykAfJyjMzQAXZ4HeJrPQSuMqdW7mnTzCZjXRqvaTWxJ0bIYv_LMSDs0fhk2dSRNk_nA5zHkjAzwcWuynYYqXILXFwrSzI8Bqm96y5GuR4FwQAXjVvQY7jAVj1IZSg4UKa0rLQF3s1plO9SFHROh_P6qMiHRkAOVYJ0N93gzOPlb-9YEomLuc9_1MdmzxCdzTMB1Gg0b6QGFqOoS7UeDlfSCcXUDjvOxMuIcSfZNd_15a11hgjoAB4pShkB_bg0XMAjei7wXP8xqvPueq5PY0w95_QKRZJRm57q0EseXMusXfVuXd2e3WWT9bhC4ctFO6bfFuGyqsXbNTnmGtnF8LGoxWbjcqHQrmRCnB7b6J0bGZOjROyhs8asYP8-w3Tz7zVZIQoz3KSle1t4jJki-4qapukOzzrm1jd9xzcpAbH2ev7w-uZkbwvZuCvmg_SQmzmyVRKiMzVzIyJWbIeaxR8qHzkswZfYp8GpE_TTCw4cMAqPuw7Cmfk5eJOFRuNpNCHQBdJV0hxzl1_31XdPx2k_chrJoiFYoDm_CXmGo_Moxejt26R-gq7vRmwTdHokQiCIvIRCvIEOOymW7Y9MusTLG7FheeiULN2L0o7vPPMeZE_2-g1aYto9Zh3lJ-22E2fi7hiZC_hMP68ahQ0kdXFqn6DJLyihdGL5LiqgVp_xmAUQ7wmhPMeb5TlUyvKvJvsixYJ7Q1SYQw6WC6RwQpbvCs=w960-h1381-s-no?authuser=0" alt="1">
+    </div>
+</head>
+<body>
+    <div>
+    <h2>Mis Hoobies</h2>
+    <p>Bienvenido a mi pagina Web, donde encontraran acerca de mi y mis hoobies.</p>
+    </div>
+    <div>
+    <p>
+        Hacer Ejercicio: <strong>Pesas</strong>,<strong>Volleyball</strong>,<strong>Calistenia</strong>
+        <br>
+        Bailar: <strong>Ballet</strong>, <strong>Tango</strong>,<strong>Mambo</strong>
+        <br>
+        Practicar idiomas: <strong>Inglés</strong>,<strong>Áleman</strong>,<strong>Frances</strong>
+        <br>
+        Cocinar: <strong>Antojitos Mexicanos</strong>,<strong>Comida Thailadensa</strong>,<strong>Comida Italiana</strong>
+        <br>
+    </p>
+    </div>
+
+    <div>
+    <p>Suscribete</p>
+    <button><a href="https://www.youtube.com/channel/UC9hXDXN8t1iHOSiGyNcp-Nw">Suscribirse</a></button>
+    </div>
+
+    <div>
+    <p><strong><H2>Mis redes Sociales</H2></strong></p>
+    <p>
+       <style>
+        p{
+            font-family: fantasy;
+        }
+       </style> 
+       <p>Facebook</p>
+       <button><strong><a href="https://www.facebook.com/oscar.torres.9279807/">Facebook</a></strong></button>
+       <br>
+       <p>Instagram</p>
+       <button><strong><a href="https://www.instagram.com/instant_perfect_pic/">Instagram</a></strong></button>
+       <br>
+       <p>Linkedin</p>
+       <button><strong><a href="https://www.linkedin.com/in/oscar-torres-215593210/">Linkedin</a></strong></button>
+       <br>
+    </p>
+    </div>   
+
+    
+</body>
+</html>
